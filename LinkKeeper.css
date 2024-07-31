@@ -1,0 +1,22 @@
+body {
+    padding: 0em;
+    margin: 0em;
+}
+nav {
+    border-width: 0em;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-left: 1em;
+}
+
+li {
+    list-style: none;
+    padding: 1em;
+}
+
+.addCategory {
+    display: block;
+}
